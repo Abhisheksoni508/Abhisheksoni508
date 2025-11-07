@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis | software engineering | AI & Machine learning | Full-stack dev.
 - 🌱 I’m currently learning Python, Java, Javascript, Algorithms and data structures.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me - My linkdIn : https://www.linkedin.com/in/abhishek-soni-474277281/
+- 📫 How to reach me - My linkdIn : (https://www.linkedin.com/in/abhisheksoni9/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im Batman
 
