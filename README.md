@@ -3,8 +3,6 @@
 🎓 BSc (Hons) Computer Science @ University of Greenwich  
 💡 Interested in **Data Analysis**, **Software Engineering**, **AI & Machine Learning**, and **Full-stack Development**  
 🧠 Strong focus on **algorithms**, **data structures**, and building reliable systems  
-😄 Pronouns: **He/Him**  
-
 ---
 
 ## 🚀 What I'm Doing Now
