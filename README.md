@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Doing Now
 
-- 🌱 Deepening my skills in **Python**, **Java**, and **JavaScript**
+- 🌱 Deepening my skills in **Python**, **Java**, and **DBS**
 - 🧮 Practising **data structures & algorithms** for technical interviews
 - 🤖 Exploring **AI & machine learning** for real-world use cases
 - 💻 Building side projects to improve my **Full-Stack** and **distributed systems** skills
