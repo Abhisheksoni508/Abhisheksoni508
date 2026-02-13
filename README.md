@@ -6,7 +6,7 @@
 <h1 align="center">Abhishek Soni</h1>
 
 <p align="center">
-AI Systems Engineer | Machine Learning | Scalable Backend Systems
+AI Systems Engineer | Machine Learning | Software Engineer/Developer
 </p>
 
 <p align="center">
@@ -128,9 +128,10 @@ Research Interests:
 ## 🎯 Target Roles
 
 Machine Learning Engineer  
-AI Systems Engineer  
-Backend / Infrastructure Engineering (AI-first companies)  
-Research-driven Engineering Teams  
+AI Systems Engineer 
+Backend / Infrastructure Engineering (AI-first companies)
+Software Engineering
+Research-driven Roles 
 
 ---
 
