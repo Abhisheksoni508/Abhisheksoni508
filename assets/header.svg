@@ -1,143 +1,42 @@
-<svg viewBox="0 0 800 170" xmlns="http://www.w3.org/2000/svg">
-  <title>Abhishek Soni</title>
+<svg viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Abhishek Soni</title>
+  <desc id="description">Software Engineer focused on AI systems, full-stack products, and data platforms.</desc>
 
-  <rect width="800" height="170" fill="#0d1117" rx="6"/>
+  <rect x="0.5" y="0.5" width="899" height="209" rx="12" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- Name -->
+  <line x1="64" y1="38" x2="836" y2="38" stroke="#21262d" stroke-width="1"/>
+  <circle cx="64" cy="38" r="3.5" fill="#58a6ff"/>
+
   <text
-    x="400"
-    y="50"
+    x="450"
+    y="91"
     text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace"
-    font-size="34"
-    font-weight="600"
-    fill="#f0f6fc"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="46"
+    font-weight="650"
     letter-spacing="-1.5"
-  >
-    Abhishek Soni
-  </text>
+    fill="#f0f6fc"
+  >Abhishek Soni</text>
 
-  <!-- Name underline -->
-  <line
-    x1="300"
-    y1="72"
-    x2="500"
-    y2="72"
-    stroke="#30363d"
-    stroke-width="1"
-  />
-
-  <!-- Role timeline -->
-  <g
-    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace"
-    font-size="12"
-    fill="#58a6ff"
+  <text
+    x="450"
+    y="128"
     text-anchor="middle"
-  >
-    <!-- Main spine -->
-    <line
-      x1="80"
-      y1="103"
-      x2="720"
-      y2="103"
-      stroke="#30363d"
-      stroke-width="1.5"
-    />
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace"
+    font-size="17"
+    font-weight="500"
+    letter-spacing="0.6"
+    fill="#58a6ff"
+  >SOFTWARE ENGINEER</text>
 
-    <!-- AI Engineer -->
-    <circle
-      cx="100"
-      cy="103"
-      r="4"
-      fill="#0d1117"
-      stroke="#58a6ff"
-      stroke-width="2"
-    />
-    <line
-      x1="100"
-      y1="107"
-      x2="100"
-      y2="121"
-      stroke="#30363d"
-      stroke-width="1"
-    />
-    <text x="100" y="140">AI Engineer</text>
+  <text
+    x="450"
+    y="160"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="14"
+    fill="#8b949e"
+  >AI systems · full-stack products · data platforms</text>
 
-    <!-- Software Engineer -->
-    <circle
-      cx="250"
-      cy="103"
-      r="4"
-      fill="#0d1117"
-      stroke="#58a6ff"
-      stroke-width="2"
-    />
-    <line
-      x1="250"
-      y1="107"
-      x2="250"
-      y2="121"
-      stroke="#30363d"
-      stroke-width="1"
-    />
-    <text x="250" y="140">Software Engineer</text>
-
-    <!-- Full Stack Developer -->
-    <circle
-      cx="400"
-      cy="103"
-      r="4"
-      fill="#0d1117"
-      stroke="#58a6ff"
-      stroke-width="2"
-    />
-    <line
-      x1="400"
-      y1="107"
-      x2="400"
-      y2="121"
-      stroke="#30363d"
-      stroke-width="1"
-    />
-    <text x="400" y="140">Full Stack Developer</text>
-
-    <!-- Data Analyst -->
-    <circle
-      cx="550"
-      cy="103"
-      r="4"
-      fill="#0d1117"
-      stroke="#58a6ff"
-      stroke-width="2"
-    />
-    <line
-      x1="550"
-      y1="107"
-      x2="550"
-      y2="121"
-      stroke="#30363d"
-      stroke-width="1"
-    />
-    <text x="550" y="140">Data Analyst</text>
-
-    <!-- Researcher -->
-    <circle
-      cx="700"
-      cy="103"
-      r="4"
-      fill="#0d1117"
-      stroke="#58a6ff"
-      stroke-width="2"
-    />
-    <line
-      x1="700"
-      y1="107"
-      x2="700"
-      y2="121"
-      stroke="#30363d"
-      stroke-width="1"
-    />
-    <text x="700" y="140">Researcher</text>
-  </g>
+  <line x1="390" y1="184" x2="510" y2="184" stroke="#30363d" stroke-width="1"/>
 </svg>
